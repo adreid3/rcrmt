@@ -1,8 +1,7 @@
 # This is to test the local git repo is working ok.
 
-library(actuar)
-
-library(foreach)
+#library(actuar)
+#library(foreach)
 
 crmt <- function(IndustryIndex=1,
                     Within="Yes",
